@@ -32,7 +32,7 @@ library(DT)
 library(kableExtra)
 library(countrycode)
 
-source(here("01_Data_Wrangling","code","@@@_functions.R"))
+source(here("02_Data_Wrangling","code","@@@_functions.R"))
 
 ```
 
