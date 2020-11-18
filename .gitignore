@@ -36,6 +36,7 @@ vignettes/*.pdf
 *.knit.md
 
 # Course data directory
+
 /data
 
 data.zip
